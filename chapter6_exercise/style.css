@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.image1 {
+  height: 200px;
+  background-image: url(chapter6/box1.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.image2 {
+  height: 200px;
+  background-image: url(chapter6/box2.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.image3 {
+  height: 200px;
+  background-image: url(chapter6/box3.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.image4 {
+  height: 200px;
+  background-image: url(chapter6/box4.jpg);
+  background-position: center;
+  background-size: cover;
+}
